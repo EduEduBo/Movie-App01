@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Movie-App</string>
+    <string name="now_movies">Now</string>
+    <string name="now_movies_text">Now playing movies</string>
+    <string name="popular_movies">Popular</string>
+    <string name="popular_movies_text">Popular movies</string>
+    <string name="incoming_movies">Incoming</string>
+    <string name="incoming_movies_text">Incoming movies</string>
+    <string name="favorite_movies">Favorite</string>
+    <string name="tv_shows">TV Series</string>
+    <string name="search_movies">Search</string>
+</resources>
